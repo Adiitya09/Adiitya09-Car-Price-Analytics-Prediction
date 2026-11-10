@@ -1,0 +1,17 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IPynb Checkpoints
+.ipynb_checkpoints/
+
+# Temporary Excel files
+~$*.xlsx
+~$*.xls
+
+# Operating System files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
